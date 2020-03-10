@@ -76,3 +76,4 @@ C:\Git\Testes\ELMAH\ElmahTeste\WebApplication1\WebApplication1\obj\Debug\WebAppl
 C:\Git\Testes\ELMAH\ElmahTeste\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Git\Testes\ELMAH\ElmahTeste\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Git\Testes\ELMAH\ElmahTeste\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Git\Testes\ELMAH\ElmahTeste\WebApplication1\WebApplication1\bin\Elmah.dll
